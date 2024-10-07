@@ -6,7 +6,7 @@
 
 ![Raullzera GitHub stats](https://github-readme-stats.vercel.app/api?username=Raullzera&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raullzera&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raullzera&layout=donut)](https://github.com/anuraghazra/github-readme-stats&locale=pt-br)
 
 ## Tecnologias que eu uso/estudo
 
